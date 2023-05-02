@@ -1,5 +1,5 @@
 ### Hello! my name is Tomer
-#### I'm second year computer science student.
+#### I'm Third year computer science student.
 <!--
 **TOMER-77/TOMER-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
